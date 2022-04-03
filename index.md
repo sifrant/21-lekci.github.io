@@ -1,11 +1,11 @@
 ---
 layout: page
-title: 21 Lessons
-subtitle: What I've Learned from Falling Down the Bitcoin Rabbit Hole
+title: 21 lekcí
+subtitle: Co jsem se naučil během pádu do Bitcoinové králičí nory
 subtitle_link: http://21lessons.com
 category: bitcoin
-description: An exploration of questions and lessons learned from falling down the Bitcoin rabbit hole.
-quote: "\"Oh, you foolish Alice!\" she said again, \"how can you learn lessons in here? Why, there's hardly room for you, and no room at all for any lesson-books!\""
+description: Zkoumání otázek a zkušeností nasbíraných během pádu do Bitcoinové králičí nory.
+quote: "\"Ach, ty hloupá Alenko!\" řekla znovu, \"jak se tady můžeš něčemu naučit? Vždyť je tu sotva místo pro tebe a už vůbec ne pro nějaké učebnice!\""
 image: /assets/images/21-lessons-twitter-cover-audio.jpg
 ---
 
@@ -16,8 +16,8 @@ image: /assets/images/21-lessons-twitter-cover-audio.jpg
 
 ---
 
->  "I highly recommend this book. If you're new to bitcoin, buy it on Amazon. If you're a
->  Hodler, read the book online and send bitcoin directly[*][donate] to Gigi."
+>  "Tuto knihu vřele doporučuji. Pokud s bitcoinem teprve začínáte, kupte si ji na Amazonu. 
+>  Pokud jste Hodler, přečtěte si knihu online a pošlete bitcon přímo[*][donate] Gigimu."
 >  <cite>[Minimal Structure][reviews]</cite>
 
 [donate]: https://dergigi.com/support
@@ -45,20 +45,19 @@ image: /assets/images/21-lessons-twitter-cover-audio.jpg
 </div>
 
 
-Thanks to the awesome members of the Bitcoin community, 21 Lessons is available
-in [several languages][translations], as an [audio version][audio], and as
-a [virtual reality world][vr]. It's also possible buy a [signed copy][signed],
-in case you are willing to part with your hard-earned sats.
+Díky úžasným členům Bitcoinové komunity je 21 lekcí k dispozici v [několika jazycích][translations], ve [zvukové verzi][audio] 
+a jako [svět virtuální reality][vr]. V případě, že jste ochotni se podělit o své těžce vydělané saty, je možné zakoupit 
+i [podepsanou kopii][signed].
 
 ---
 
-> The White Rabbit put on his spectacles. 'Where shall I begin, please your
-> Majesty?' he asked. '[Begin at the beginning][preface],' the King said
-> gravely, 'and go on till you come to the end: then stop.'
+> Bílý králík si nasadil brýle. 'Kde mám prosím začít, Vaše Veličenstvo?' 
+> zeptal se. '[Začni na začátku][preface],' řekl král vážně, 'a pokračuj, 
+> dokud nedojdeš na konec. Pak se zastav.'
 
 <center>
-  <p>Ready to enter Wonderland?<br/>
-  <a href="{{ 'preface' | absolute_url }}">Follow the white rabbit →</a></p>
+  <p>Jste připraveni vstoupit do Říše divů?<br/>
+  <a href="{{ 'preface' | absolute_url }}">Následujte bílého králíka →</a></p>
   <p><a href="{{ 'preface' | absolute_url }}"><img src="/assets/images/rabbit.png"/></a></p>
 </center>
 
