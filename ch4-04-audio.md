@@ -1,7 +1,7 @@
 ---
 layout: lesson
 title: Audio a rozhovory
-quote: "Nějakou dobu čekala, aniž by slyšela cokoli dalšího: nakonec se ozvalo dunění malých koleček vozu a zvuk spousty hlasů, které spolu mluvily"
+quote: "Nějakou dobu čekala, aniž by slyšela cokoli dalšího: nakonec se ozvalo dunění malých koleček vozu a zvuk spousty hlasů, které spolu mluvily."
 permalink: audio
 order: ch4-04
 toc: true
