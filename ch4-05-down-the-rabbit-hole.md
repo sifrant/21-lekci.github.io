@@ -9,10 +9,10 @@ toc: true
 
 ### Za zrcadlem
 
-Po napsání 21 lekcí jsem napsal další články a eseje, ve kterých jsem se 
+Po vydání 21 lekcí jsem napsal další články a eseje, ve kterých jsem se 
 věnoval některým aspektům bitcoinu podrobněji. Tyto články jsou označeny 🔍.
 
-V současné době pracuji na své druhé knize [21 Ways](http://21waysbook.com/) ("21 možností").
+V současné době pracuji na své druhé knize [21 Ways](http://21waysbook.com/) (21 způsobů / možností).
 
 ----
 
@@ -36,7 +36,6 @@ seznam zdrojů o Bitcoinu je k dispozici na adrese [bitcoin-resources.com][resou
 
 <center>
 <figure>
-  <a href="https://bitcoin-resources.com"><img src="/assets/images/bitcoin-resources.png"/></a>
   <a href="https://bitcoin-resources.com"><img src="{{ 'assets/images/bitcoin-resources.png' | absolute.url }}"/></a>
   <figcaption>Further resources: <a href="https://bitcoin-resources.com">bitcoin-resources.com</a></figcaption>
 </figure>
