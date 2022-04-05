@@ -10,8 +10,10 @@ toc: true
 
 <div style="position: relative;">
   <picture>
-    <source srcset="/assets/images/translations.webp" type="image/webp"/>
-    <source srcset="/assets/images/translations.png" type="image/png"/>
+<!--    <source srcset="/assets/images/translations.webp" type="image/webp"/>
+    <source srcset="/assets/images/translations.png" type="image/png"/>-->
+    <source srcset="{{ 'assets/images/translations.webp' | absolute.url }}" type="image/webp"/>
+    <source srcset="{{ 'assets/images/translations.png' | absolute.url }}" type="image/png"/>
     <img src="/assets/images/translations.webp" alt="21 Lessons - What I've Learned from Falling Down the Bitcoin Rabbit Hole">
   </picture>
   <a href="https://amzn.to/3DUxs1O" title="French" style="position: absolute; left: 5%; top: 0%; width: 21%; height: 100%; z-index: 2;"></a>
@@ -33,8 +35,10 @@ Jediným požadavkem je, abyste své příspěvky šířili pod stejnou licencí
 
 <div style="position: relative;">
   <picture>
-    <source srcset="/assets/images/flags.webp" type="image/webp"/>
-    <source srcset="/assets/images/flags.png" type="image/png"/>
+<!--    <source srcset="/assets/images/flags.webp" type="image/webp"/>
+    <source srcset="/assets/images/flags.png" type="image/png"/>-->
+    <source srcset="{{ 'assets/images/flags.webp' | absolute.url }}" type="image/webp"/>
+    <source srcset="{{ 'assets/images/flags.png' | absolute.url }}" type="image/png"/>
     <img src="/assets/images/flags.webp" alt="Translations" style="width: 100%">
   </picture>
   <a href="https://amzn.to/2Wa4qJo" title="21 Lessons" style="position: absolute; left: 0%; top: 0%; width: 10%; height: 100%; z-index: 2;"></a>
