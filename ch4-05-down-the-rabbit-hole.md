@@ -37,6 +37,7 @@ seznam zdrojů o Bitcoinu je k dispozici na adrese [bitcoin-resources.com][resou
 <center>
 <figure>
   <a href="https://bitcoin-resources.com"><img src="/assets/images/bitcoin-resources.png"/></a>
+  <a href="https://bitcoin-resources.com"><img src="{{ 'assets/images/bitcoin-resources.png' | absolute.url }}"/></a>
   <figcaption>Further resources: <a href="https://bitcoin-resources.com">bitcoin-resources.com</a></figcaption>
 </figure>
 </center>
