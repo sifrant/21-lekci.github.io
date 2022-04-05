@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Reviews
-subtitle: ⭐⭐⭐⭐⭐ <br/> (4.8 out of 5)
+title: Recenze
+subtitle: ⭐⭐⭐⭐⭐ <br/> (4.5 z 5)
 ---
 
-If you enjoyed the book, please [leave a review][amazon] on Amazon. It helps to spread the
-word and pleases the algorithmic gods of our time. Thank you!
+Pokud se vám kniha líbila, zanechte prosím [recenzi na Amazonu][amazon]. Pomůže 
+to šířit povědomí o knize a potěší to algoritmické bohy naší doby. Děkuji!
 
 ---
 
@@ -14,9 +14,9 @@ word and pleases the algorithmic gods of our time. Thank you!
 ---
 {% endfor %}
 
-Don't feel like sharing your opinion publicly? Feel free to [reach out to me][contact]
-directly. I'd love to hear from you. If you don't like Amazon, you can also leave a review
-on [Goodreads][goodreads] or the book review platform of your choice.
+Nechcete svůj názor sdílet veřejně? Neváhejte se obrátit [přímo na mě][contact]. 
+Rád vás vyslechnu. Pokud nemáte rádi Amazon, můžete také zanechat recenzi na 
+[Goodreads][goodreads] nebo na jiné platformě pro hodnocení knih.
 
 [amazon]: https://amzn.to/2VXmQgp
 [contact]: https://dergigi.com/contact
