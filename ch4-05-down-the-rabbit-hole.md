@@ -12,7 +12,7 @@ toc: true
 Po vydání 21 lekcí jsem napsal další články a eseje, ve kterých jsem se 
 věnoval některým aspektům bitcoinu podrobněji. Tyto články jsou označeny 🔍.
 
-V současné době pracuji na své druhé knize [21 Ways](http://21waysbook.com/) (21 způsobů / možností).
+V současné době pracuji na své druhé knize [21 Ways](http://21waysbook.com/) (21 způsobů).
 
 ----
 
