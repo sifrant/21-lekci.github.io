@@ -8,7 +8,7 @@ toc: true
 audio: /assets/audio/21lessons/21-lessons.m4a
 ---
 
-### Audiobook
+### Audioknihy
 
 - 🇺🇸 [Anglická audiokniha][en-audible] je k dispozici na [Audible][en-audible] a [Bitcoin Audible][en-guy]
 - 🇩🇪 [Německá audiokniha][de-audible] je k dispozici na [Aprycot][de-aprycot], [Audible][de-audible] a [YouTube][de-youtube]
