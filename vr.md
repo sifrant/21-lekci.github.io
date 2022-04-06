@@ -9,7 +9,7 @@ quote: "Dolů, dolů, dolů. Že by ten pád nikdy neskončil?"
 image: /assets/images/vr-cover.png
 ---
 
-Díky [BITPAINT][bitpaint] je nyní _21 lekcí_ dostupných jako svět virtuální reality na [VR Chat][world]!
+Díky [BITPAINT][bitpaint] je _21 lekcí_ dostupných jako svět virtuální reality na [VR Chat][world]!
 
 {% include image.html path="./assets/images/vr-cover.png" %}
 
@@ -19,7 +19,8 @@ Díky [BITPAINT][bitpaint] je nyní _21 lekcí_ dostupných jako svět virtuáln
 
 ---
 
-{% include video.html file="/assets/videos/beta.mp4" %}
+<!--{% include video.html file="/assets/videos/beta.mp4" %}-->
+{% include video.html file="{{ 'assets/videos/beta.mp4' | absolute.url }}" %}
 
 ---
 

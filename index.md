@@ -10,8 +10,8 @@ image: /assets/images/21-lessons-twitter-cover-audio.jpg
 ---
 
 <div class="action-buttons">
-  <div class="button"><a href="https://amzn.to/2Wa4qJo">Buy the book!</a></div>
-  <small>(...or <a href="{{ 'preface' | absolute_url }}">read it online</a> for free)</small>
+  <div class="button"><a href="https://amzn.to/2Wa4qJo">Koupit knihu!</a></div>
+  <small>(...nebo <a href="{{ 'preface' | absolute_url }}">přečíst online</a> zdarma)</small>
 </div>
 
 ---
@@ -55,9 +55,9 @@ i [podepsanou kopii][signed].
 
 ---
 
-> Bílý králík si nasadil brýle. 'Kde mám prosím začít, Vaše Veličenstvo?' 
-> zeptal se. '[Začni na začátku][preface],' řekl král vážně, 'a pokračuj, 
-> dokud nedojdeš na konec. Pak se zastav.'
+> *Bílý králík si nasadil brýle. "Kde mám prosím začít, Vaše Veličenstvo?" 
+> zeptal se. "[Začni na začátku][preface]," řekl král vážně, "a pokračuj, 
+> dokud nedojdeš na konec. Pak se zastav."*
 
 <center>
   <p>Jste připraveni vstoupit do Říše divů?<br/>
