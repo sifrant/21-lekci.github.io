@@ -15,7 +15,7 @@ od Bitcoinu?”* bude vždy neúplná. Symbióza toho, co lze považovat za něk
 je velmi mnoho a věci se vyvíjejí příliš rychle na to, aby je jediný člověk 
 dokázal plně pochopit.
 
-I když mu plně nerozumíme a i přes všechny jeho zvláštnosti a zdánlivé nedostatky 
+I když mu plně nerozumíme a i přes všechny jeho zvláštnosti a zdánlivé nedostatky, 
 Bitcoin nepochybně funguje. Bloky produkuje zhruba každých deset minut a činí tak 
 báječně. Čím déle bude Bitcoin fungovat, tím více lidí se rozhodne jej používat.
 
@@ -38,7 +38,7 @@ dříve nesouvisejících dílků pospojovaných herně-teoretickými pobídkami
 tvoří revoluci, jíž je Bitcoin. Právě tato krásná směs mnoha oborů dělá 
 ze Satoshiho génia.
 
-Stejně jako každý složitý systém musí i Bitcoin hledat kompromisy v oblasti 
+Tak jako každý složitý systém musí i Bitcoin hledat kompromisy v oblasti 
 efektivity, nákladů, bezpečnosti a mnoha dalších vlastností. Stejně jako 
 neexistuje dokonalé řešení, jak z kruhu získat čtverec, bude i řešení problémů, 
 které se Bitcoin snaží přinést, vždy nedokonalé.
@@ -62,10 +62,10 @@ systému zničí celek, zkoumání jednotlivých částí Bitcoinu izolovaně z�
 jeho pochopení. Pokud jen jedna osoba vyškrtne ze svého slovníku slovo "blockchain" 
 a nahradí ho výrazem "řetězec bloků", zemřu jako šťastný člověk.
 
-V každém případě moje cesta pokračuje. Plánuji vydat se dál do hlubin této [králičí nory] 
+V každém případě moje cesta pokračuje. Plánuji vydat se dál do hlubin této [králičí nory][rabbit hole] 
 a zvu vás, abyste se [přidali][patreon] k té jízdě.
 
-[Buy the book »][amazon]
+<!--[Koupit knihu »][amazon]-->
 
 <!-- Patreon -->
 [patreon]: https://patreon.com/dergigi
