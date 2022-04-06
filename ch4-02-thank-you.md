@@ -19,7 +19,7 @@ napište mi prosím [sem][contact].
 </div>
 
 V současné době pracuji na druhém, ambicióznějším projektu: [21 Ways][21ways] 
-("21 možností"). Můžete mě [podpořit na Patreonu][patreon] a získat exkluzivní 
+(21 způsobů). Můžete mě [podpořit na Patreonu][patreon] a získat exkluzivní 
 náhled a předčasný přístup k aktuálním návrhům, kresbám a dalším materiálům. 
 Můžete mě také [podpořit přímo][support] bitcoinem.
 

@@ -1,7 +1,7 @@
 ---
 layout: lesson
 title: Poděkování
-quote: "\"Děkuji,\" řekla Alenka"
+quote: "\"Děkuji,\" řekla Alenka."
 permalink: acknowledgments
 order: ch4-01
 toc: true
@@ -29,7 +29,7 @@ všechny, ale pokusím se jmenovat alespoň některé.
 -   Děkuji [Andreasi M. Antonopoulosovi][Andreas M. Antonopoulos] za všechny [vzdělávací materiály][educational material], 
     které v průběhu let vydal.
 -   Díky [Saifedeanu Ammousovi][Saifedean Ammous] za jeho přesvědčení, drsné tweety a napsání 
-    The Bitcoin Standard
+    The Bitcoin Standard.
 -   Děkuji [Francisi Pouliotovi][Francis Pouliot] za sdílení jeho nadšení z objevu [timechainu][timechain].
 -   Díky [Jannikovi][Jannik], [Brandonovi][Brandon], [Mattovi][Matt], [Camilovi][Camilo], [Danielovi][Daniel], 
     [Michaelovi][Michael] a [Raphaelovi][Raphael] za poskytnutí zpětné vazby k prvním návrhům 
@@ -37,12 +37,12 @@ všechny, ale pokusím se jmenovat alespoň některé.
     provedl korekturu několika návrhů.
 <!-- Part III -->
 -   Děkuji [Dhruvu Bansalovi][Dhruv Bansal] and [Mattu Odellovi][Matt] za to, že si udělali čas 
--   a diskutovali se mnou o některých nápadech.
--   Díky [Guyi Swannovi][Guy Swann] za vytvoření audio verze 21lessons.com.
+    a diskutovali se mnou o některých nápadech.
+-   Díky [Guyi Swannovi][Guy Swann] za vytvoření audio verze 21 lekcí.
 -   V neposlední řadě děkuji všem bitcoinovým maximalistům, shitcoinovým 
     minimalistům, shillům, botům a shitposterům, kteří žijí v krásné zahradě, 
     kterou je Bitcoin Twitter. A nakonec díky *vám*, že jste si to přečetli. 
-    Doufám, že se vám to líbilo stejně jako mně se líbilo to psát. Neváhejte 
+    Doufám, že se vám to líbilo stejně, jako mně se líbilo to psát. Neváhejte 
     mě [kontaktovat][reach out to me] na twitteru. Moje DMs jsou otevřené.
 
 <!-- Twitter -->
