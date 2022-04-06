@@ -1,14 +1,14 @@
 ---
 layout: lesson
 title: Audio a rozhovory
-quote: "Nějakou dobu čekala, aniž by slyšela cokoli dalšího: nakonec se ozvalo dunění malých koleček vozu a zvuk spousty hlasů, které spolu mluvily"
+quote: "Nějakou dobu čekala, aniž by slyšela cokoli dalšího: nakonec se ozvalo dunění malých koleček vozu a zvuk spousty hlasů, které spolu mluvily."
 permalink: audio
 order: ch4-04
 toc: true
 audio: /assets/audio/21lessons/21-lessons.m4a
 ---
 
-### Audiobook
+### Audioknihy
 
 - 🇺🇸 [Anglická audiokniha][en-audible] je k dispozici na [Audible][en-audible] a [Bitcoin Audible][en-guy]
 - 🇩🇪 [Německá audiokniha][de-audible] je k dispozici na [Aprycot][de-aprycot], [Audible][de-audible] a [YouTube][de-youtube]

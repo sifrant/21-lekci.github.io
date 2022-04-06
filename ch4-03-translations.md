@@ -96,7 +96,7 @@ Viz [/audio][audio] pro audioknihy, zvukové verze, komentáře a epizody podcas
 
 - 🇪🇸 [Kapitola I][es-philosophy], [Kapitola II][es-economics] a [Kapitola III][es-technology] jsou k dispozici ve španělštině díky [@CamiloJdL][Camilo] a [Ξntropy].
 - 🇹🇷 [Kapitola I][tr-philosophy], [Kapitola II][tr-economics] a [Kapitola III][tr-technology] jsou dostupné v turečtině díky [@deniz_zgur][deniz]. Vezměte na vědomí, že pořadí kapitol je v tureckém překladu odlišné.
-- 🇨🇳 [Kapitola I][zh-all], [Kapitola II][zh-all] a [Kapitola III][zh-all] jsou k dispozici v čínštině díky [@andywan][andywan]. Byly přidány dalších obrázky a údaje.
+- 🇨🇳 [Kapitola I][zh-all], [Kapitola II][zh-all] a [Kapitola III][zh-all] jsou k dispozici v čínštině díky [@andywan][andywan]. Byly přidány další obrázky a údaje.
 - 🇩🇪 [Kapitola I][de-philosophy], [Kapitola II][de-economics] a [Kapitola III][de-technology] jsou dostupné v němčině díky [@CryptoMulde][cryptomulde].
 - 🇩🇪 [Další německý překlad][de-blocktrainer] pořídil [Rene] z blocktrainer.
 - 🇫🇮 [Kapitola I][fin-philosophy], [Kapitola II][fin-economics] a [Kapitola III][fin-technology] jsou k dispozici ve finštině díky [Thomas Brand][thomas-brand]. Vstup do finské králičí nory je [tady][fin-toc].
