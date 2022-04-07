@@ -10,7 +10,7 @@ toc: true
 
 V říjnu 2018 položil Arjun Balaji nevinnou otázku: [*Co jste se naučili od 
 Bitcoinu?*][this question] Poté, co jsem se pokusil na tuto otázku odpovědět 
-v krátkém tweetu, a žalostně neúspěšně, jsem si uvědomil, že věcí, které 
+(žalostně neúspěšně) v krátkém tweetu, uvědomil jsem si, že věcí, které 
 jsem se naučil, je příliš mnoho na to, abych na ně mohl odpovědět rychle. 
 Pokud vůbec.
 
@@ -26,26 +26,29 @@ kapitoly. Každá kapitola se na Bitcoin dívá jinou optikou a extrahuje z něj
 poučení, která lze získat při zkoumání této podivné sítě z různých úhlů 
 pohledu.
 
-[Kapitola 1][chapter1] zkoumá filosofické učení Bitcoinu. Souhru neměnnosti 
+[KapitolaI1][chapter1] zkoumá filosofické učení Bitcoinu. Souhru neměnnosti 
 a změny, koncept skutečné vzácnosti, neposkvrněné početí Bitcoinu, problém 
 identity, rozpor replikace a polohy, sílu svobody slova a hranice poznání.
 
-[Kapitola 2][chapter2] se zabývá ekonomickým poznáním Bitcoinu. Lekce 
-o finanční nevědomosti, inflaci, hodnotě, penězích a jejich historii, 
+[Kapitola II][chapter2] se zabývá ekonomickým poznáním Bitcoinu. Lekce 
+o finanční negramotnosti, inflaci, hodnotě, penězích a jejich historii, 
 bankovnictví frakčních rezerv a o tom, jak Bitcoin mazaně a oklikou znovu 
 zavádí zdravé peníze.
 
-[Kapitola 3][chapter3] se věnuje některým poznatkům získaným při zkoumání 
+[Kapitola III][chapter3] se věnuje některým poznatkům získaným při zkoumání 
 technologie Bitcoinu. Proč je v číslech síla, úvahy o důvěře, proč určování 
 času vyžaduje práci, jak je pomalý vývoj a nenarušování systému předností, 
-a nikoli chybou, co nám může vznik Bitcoinu říci o soukromí, proč cypherpunkeři 
+a nikoli chybou, co nám může vznik Bitcoinu říci o soukromí, proč cypherpunkové 
 píší kód (a ne zákony) a jaké metafory by mohly být užitečné pro zkoumání 
 budoucnosti Bitcoinu.
 
 Každá lekce obsahuje v textu několik citátů a odkazů. Pokud jsem nějakou 
 myšlenku prozkoumal podrobněji, najdete odkazy na mé související práce v části 
 "Za zrcadlem". Pokud byste rádi šli hlouběji, odkazy na nejdůležitější materiály 
-jsou uvedeny v části "Dolů králičí norou". Obojí najdete na konci každé lekce.
+jsou uvedeny v části "Dolů králičí norou". Obojí najdete na konci každé lekce. 
+(V případě, že jsem nalezl vhodný a dostatečně kvalitní článek v češtině, 
+odkazuji na něj. Jinak ponechávám odkazy na původní anglické zdroje. Některé 
+z odkazovaných textů plánuji v budoucnu přeložit také - pozn. překladatele)
 
 Přestože jsou určité předchozí znalosti o Bitcoinu přínosné, doufám, že tyto 
 lekce zvládne strávit každý zvídavý čtenář. I když některé z lekcí spolu 
@@ -54,7 +57,7 @@ Technickému žargonu jsem se snažil maximálně vyhýbat, avšak některým sl
 specifickým pro danou oblast, se nelze zcela vyvarovat.
 
 Doufám, že můj text poslouží ostatním jako inspirace, aby se ponořili pod povrch 
-a prozkoumali některé z hlubších otázek, které Bitcoin vyvolává. Moji vlastní 
+a prozkoumali některé z hlubších otázek, které Bitcoin vyvolává. Mou vlastní 
 inspiraci mi poskytlo množství jiných autorů a jim všem jsem neskonale vděčný.
 
 V neposlední řadě: cílem mého psaní není vás o čemkoli přesvědčovat. Mým cílem 
