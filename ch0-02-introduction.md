@@ -26,7 +26,7 @@ kapitoly. Každá kapitola se na Bitcoin dívá jinou optikou a extrahuje z něj
 poučení, která lze získat při zkoumání této podivné sítě z různých úhlů 
 pohledu.
 
-[KapitolaI1][chapter1] zkoumá filosofické učení Bitcoinu. Souhru neměnnosti 
+[Kapitola I][chapter1] zkoumá filosofické učení Bitcoinu. Souhru neměnnosti 
 a změny, koncept skutečné vzácnosti, neposkvrněné početí Bitcoinu, problém 
 identity, rozpor replikace a polohy, sílu svobody slova a hranice poznání.
 
