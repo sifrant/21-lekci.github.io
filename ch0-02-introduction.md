@@ -65,10 +65,9 @@ je přimět vás k zamyšlení a ukázat vám, že Bitcoin je mnohem víc, než 
 pohled zdá. Nemohu vám ani říct, co Bitcoin je, nebo co vás naučí. To si budete 
 muset zjistit sami pro sebe.
 
-> "Po tomhle už není cesty zpět. Vezmeš si modrou pilulku - příběh skončí, 
-> probudíš se ve své posteli a budeš věřit tomu, čemu chceš věřit. Vezmeš 
-> si červenou pilulku - zůstaneš v Říši divů a já ti ukážu, jak hluboko 
-> králičí nora vede."
+> "Z týhle cesty se nemůžeš vrátit. S modrou kapslí všechno skončí, probudíš 
+> se doma a budeš věřit, čemu budeš chtít. Ale s tou červenou - zůstaneš 
+> v Říši divů a já ti ukážu, jak hluboko králičí nora vede."
 > <cite>[Morpheus][Morpheus]</cite>
 
 {% include image.html path="./assets/images/bitcoin-orange-pill.jpg" %}
