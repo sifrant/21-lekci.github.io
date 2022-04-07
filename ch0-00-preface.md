@@ -21,7 +21,8 @@ pravidelně pracovat a v budoucnu vydávat aktualizované verze a další materi
 
 Na rozdíl od Bitcoinu nemusí být budoucí verze tohoto projektu zpětně kompatibilní. 
 Některé lekce mohou být rozšířeny, jiné přepracovány nebo nahrazeny. Doufám, 
-že budoucí verze bude něco, co budete moci držet v rukou, ale zatím nechci nic slibovat.
+že některé z příštích vydání bude něco, co budete moci držet v rukou, ale zatím 
+nechci nic slibovat.
 
 Bitcoin je nevyčerpatelný učitel, a proto netvrdím, že jsou tyto lekce všeobjímající
 nebo úplné. Jsou odrazem mé osobní cesty králičí norou. Lekcí existuje mnohem více
