@@ -14,8 +14,8 @@ Bitcoinu?*][this question] Poté, co jsem se pokusil na tuto otázku odpovědět
 jsem se naučil, je příliš mnoho na to, abych na ně mohl odpovědět rychle. 
 Pokud vůbec.
 
-Věci, které jsem se naučil, se samozřejmě týkají Bitcoinu - nebo s ním alespoň 
-souvisejí. Nicméně, i když jsou zde některé z vnitřních mechanismů Bitcoinu 
+To, co jsem se naučil, se samozřejmě týká Bitcoinu - nebo to s ním alespoň 
+souvisí. Nicméně, i když jsou zde některé z vnitřních mechanismů Bitcoinu 
 objasněny, následující lekce nejsou vysvětlením toho, jak Bitcoin funguje nebo 
 co to je. Mohly by však pomoci prozkoumat některé ze záležitostí, jichž se 
 Bitcoin dotýká: filosofické otázky, ekonomické skutečnosti a technologické 
@@ -26,7 +26,7 @@ kapitoly. Každá kapitola se na Bitcoin dívá jinou optikou a extrahuje z něj
 poučení, která lze získat při zkoumání této podivné sítě z různých úhlů 
 pohledu.
 
-[KapitolaI1][chapter1] zkoumá filosofické učení Bitcoinu. Souhru neměnnosti 
+[Kapitola I][chapter1] zkoumá filosofické učení Bitcoinu. Souhru neměnnosti 
 a změny, koncept skutečné vzácnosti, neposkvrněné početí Bitcoinu, problém 
 identity, rozpor replikace a polohy, sílu svobody slova a hranice poznání.
 
