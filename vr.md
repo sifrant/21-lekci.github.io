@@ -20,7 +20,7 @@ Díky [BITPAINT][bitpaint] je _21 lekcí_ dostupných jako svět virtuální rea
 ---
 
 <!--{% include video.html file="/assets/videos/beta.mp4" %}-->
-{% include video.html file="{{ 'assets/videos/beta.mp4' | absolute.url }}" %}
+{% include video.html file="{{ 'assets/videos/beta.mp4' | absolute_url }}" %}
 
 ---
 
