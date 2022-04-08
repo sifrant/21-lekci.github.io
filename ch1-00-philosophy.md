@@ -15,11 +15,11 @@ mohl člověk zjistit, že Bitcoin není takový, jakým se na první pohled zd�
 
 Bitcoin umí vzít vaše předpoklady a postavit je na hlavu. Po nějaké době, 
 zrovna když už jste si zase připadali silní v kramflecích, Bitcoin znovu 
-přiletí jako neřízená střela a vaše předpoklady opět rozbije.
+přiletí jako neřízená střela a vaše domněnky opět rozbije.
 
 {% include image.html path="./assets/images/blind-monks.jpg" caption="Slepí mniši zkoumající Bitcoinového býka" %}
 
-Bitcoin je plodem mnoha oborů. Stejně tak jako slepí mniši zkoumají slona, 
+Bitcoin je plodem mnoha oborů. Stejně jako slepí mniši zkoumají slona, 
 každý, kdo přistupuje k této nové technologii, tak činí z jiného úhlu. 
 A každý dojde k odlišným závěrům o povaze tohoto zvířete.
 
@@ -31,7 +31,7 @@ filozofickým otázkám neměnnosti, vzácnosti, lokality a identity.
 
 Pátá lekce zkoumá, jak je příběh vzniku bitcoinu nejen fascinující, ale 
 pro tento systém bez vůdce naprosto zásadní. Poslední dvě lekce této 
-kapitoly zkoumají sílu svobody slova a hranice našeho individuálních 
+kapitoly zkoumají sílu svobody slova a hranice našeho individuálního 
 poznání, odrážející se v překvapivé hloubce Bitcoinové králičí nory.
 
 Doufám, že svět Bitcoinu pro vás bude stejně poučný, fascinující a zábavný, 
