@@ -28,8 +28,8 @@ image: /assets/images/21-lessons-twitter-cover-audio.jpg
   <picture>
 <!--    <source srcset="/assets/images/21-lessons-book-ebook-audiobook.webp" type="image/webp"/>
     <source srcset="/assets/images/21-lessons-book-ebook-audiobook.png" type="image/png"/>-->
-    <source srcset="{{ 'assets/images/21-lessons-book-ebook-audiobook.webp' | absolute.url }}" type="image/webp"/>
-    <source srcset="{{ 'assets/images/21-lessons-book-ebook-audiobook.png' | absolute.url }}" type="image/png"/>
+    <source srcset="{{ 'assets/images/21-lessons-book-ebook-audiobook.webp' | absolute_url }}" type="image/webp"/>
+    <source srcset="{{ 'assets/images/21-lessons-book-ebook-audiobook.png' | absolute_url }}" type="image/png"/>
     <img src="/assets/images/21-lessons-book-ebook-audiobook.webp" alt="21 Lessons - What I've Learned from Falling Down the Bitcoin Rabbit Hole">
   </picture>
   <a href="https://amzn.to/2Wa4qJo" title="Paperback" style="position: absolute; left: 6%; top: 5.33%; width: 21.11%; height: 80.33%; z-index: 2;"></a><a href="https://amzn.to/3bvM49P" title="Kindle Edition" style="position: absolute; left: 27.33%; top: 4.67%; width: 34.56%; height: 81%; z-index: 2;"></a><a href="https://amzn.to/2ZeUsYX" title="Listen on Audible" style="position: absolute; left: 69.11%; top: 5.33%; width: 23.56%; height: 76.33%; z-index: 2;"></a><a href="https://amzn.to/2Wa4qJo" title="Buy on Amazon" style="position: absolute; left: 27.33%; top: 89.17%; width: 14%; height: 9.5%; z-index: 2;"></a><a href="https://amzn.to/2ZeUsYX" title="Listen on Audible" style="position: absolute; left: 74.22%; top: 89.33%; width: 13.44%; height: 8.67%; z-index: 2;"></a>
@@ -41,8 +41,8 @@ image: /assets/images/21-lessons-twitter-cover-audio.jpg
   <picture>
 <!--    <source srcset="/assets/images/flags.webp" type="image/webp"/>
     <source srcset="/assets/images/flags.png" type="image/png"/>-->
-    <source srcset="{{ 'assets/images/flags.webp' | absolute.url }}" type="image/webp"/>
-    <source srcset="{{ 'assets/images/flags.png' | absolute.url }}" type="image/png"/>
+    <source srcset="{{ 'assets/images/flags.webp' | absolute_url }}" type="image/webp"/>
+    <source srcset="{{ 'assets/images/flags.png' | absolute_url }}" type="image/png"/>
     <img src="/assets/images/flags.webp" alt="Translations" style="width: 100%">
   </picture>
   <a href="{{ 'translations' | absolute_url }}" title="View all translations" style="position: absolute; left: 0%; top: 0%; width: 100%; height: 100%; z-index: 2;"></a>
@@ -63,7 +63,7 @@ i [podepsanou kopii][signed].
   <p>Jste připraveni vstoupit do Říše divů?<br/>
   <a href="{{ 'preface' | absolute_url }}">Následujte bílého králíka →</a></p>
 <!--  <p><a href="{{ 'preface' | absolute_url }}"><img src="/assets/images/rabbit.png"/></a></p>-->
-  <p><a href="{{ 'preface' | absolute_url }}"><img src="{{ 'assets/images/rabbit.png' | absolute.url }}"/></a></p>
+  <p><a href="{{ 'preface' | absolute_url }}"><img src="{{ 'assets/images/rabbit.png' | absolute_url }}"/></a></p>
 </center>
 
 
