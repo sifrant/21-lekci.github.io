@@ -8,6 +8,12 @@ order: ch4-03
 toc: true
 ---
 
+Pokud vám 🇨🇿 česká verze pomohla při vaší cestě Bitcoinovou králičí norou, můžete za překlad 
+poděkovat zasláním satů na ⚡ lightningovou adresu nekonecnik@stacker.news nebo ⛓️ on-chain 
+na PayNym [+muddydarkness33F][https://paynym.is/+muddydarkness33F] 
+Máte-li dotaz nebo připomínku, můžete mě kontaktovat na [twitteru][sifrant], 
+případně otevřít issue nebo pull request na [githubu][https://github.com/sifrant/21lekci].
+
 <div style="position: relative;">
   <picture>
 <!--    <source srcset="/assets/images/translations.webp" type="image/webp"/>
@@ -90,7 +96,8 @@ Viz [/audio][audio] pro audioknihy, zvukové verze, komentáře a epizody podcas
 ### Online verze
 
 - 🇮🇹 [Italská verze][it-site] webu je k dispozici díky [gabridome]
-- 🇨🇿 [Slovenská verze][sk-github] webu je dostupná díky [LuboD]
+- 🇸🇰 [Slovenská verze][sk-github] webu je dostupná díky [LuboD]
+- 🇨🇿 [Česká verze][cz-github] webu je dostupná díky [sifrant]
 
 ### Překlady kapitol
 
@@ -157,6 +164,7 @@ Viz [/audio][audio] pro audioknihy, zvukové verze, komentáře a epizody podcas
 [id-economics]: https://medium.com/@hazmitri/21-pelajaran-dari-bitcoin-bagian-kedua-ekonomi-e6ba6d9a7a70
 [it-site]: https://gabridome.github.io/21-lezioni/
 [sk-github]: https://1lubo.github.io/byzantine_general/
+[cz-github]: https://sifrant.github.io/21lekci/
 [hu-ebooks]: https://coincrumb.com/2021/10/15/21-lecke/
 [hu-pdf]: https://coincrumb.com/wp-content/uploads/2021/10/21-Lecke-PDF-Gigi.zip
 [hu-epubmobi]: https://coincrumb.com/wp-content/uploads/2021/10/21-Lecke-EPUBMOBI-Gigi.zip
@@ -188,3 +196,4 @@ Viz [/audio][audio] pro audioknihy, zvukové verze, komentáře a epizody podcas
 [CoinCrumb]: https://twitter.com/CoinCrumb
 [BTCTranslator]: https://twitter.com/BTCTranslator
 [MF]: https://twitter.com/fkenfkg2fjsks
+[sifrant]: https://twitter.com/nekonecnik
