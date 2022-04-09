@@ -32,8 +32,8 @@ témata v jediné lekci, eseji, článku nebo knize. Mám dokonce pochybnosti,
 zda-li je něco takového vůbec reálné.
 
 Bitcoin je novou formou peněz, a proto je pro jeho pochopení naprosto nezbytné 
-studovat ekonomii. Zabývajíc se podstatou lidského jednání a interakcí 
-ekonomických subjektů, je ekonomie pravděpodobně jedním z největších a zároveň 
+studovat ekonomii. Zabývaje se podstatou lidského jednání a interakcí jednotlivých 
+tržních subjektů, je ekonomie pravděpodobně jedním z největších a zároveň 
 nejzamotanějších kousků skládačky jménem Bitcoin.
 
 Ještě jednou opakuji, že tyto lekce jsou rozborem různých věcí, které jsem se 
