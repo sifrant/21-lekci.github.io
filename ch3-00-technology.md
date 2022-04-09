@@ -9,12 +9,12 @@ order: ch3-00
 toc: true
 ---
 
-Zlaté klíče, hodiny, které fungují jen náhodou, závody v řešení podivných hádanek 
+Zlaté klíče, náhodně fungující hodiny, závody v řešení podivných hádanek 
 a stavitelé, kteří nemají tváře ani jména. To, co zní jako pohádky z Říše divů, 
 je ve světě Bitcoinu na denním pořádku.
 
-Jak jsme již zjistili v [Kapitole 2][chapter2], mnohé aspekty současného 
-finančního systému jsou systémově vadné. Stejně jako Alenka můžeme jen doufat, 
+Jak jsme již zjistili v [Kapitole II][chapter2], mnohé aspekty současného 
+finančního zřízení jsou systémově vadné. Stejně jako Alenka můžeme jen doufat, 
 že si tentokrát poradíme lépe. Díky pseudonymnímu vynálezci však nyní máme 
 k dispozici neuvěřitelně sofistikovanou technologii: Bitcoin.
 
@@ -34,7 +34,7 @@ ve druhé lekci této kapitoly.
 Posledních pár lekcí se zabývá étosem technologického vývoje Bitcoinu, který je 
 pravděpodobně stejně důležitý jako samotná technologie. Bitcoin není další 
 nablýskaná aplikace ve vašem telefonu. Je to základ nové ekonomické reality, 
-a proto by se k Bitcoinu mělo přistupovat jako k jaderné zbrani finančního softwaru.
+a proto by se k němu mělo přistupovat jako k jaderné zbrani finančního softwaru.
 
 Kde se v této finanční, společenské a technologické revoluci nacházíme? Sítě 
 a technologie minulosti nám mohou posloužit jako metafory pro budoucnost Bitcoinu, 
