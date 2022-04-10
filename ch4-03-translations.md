@@ -8,9 +8,29 @@ order: ch4-03
 toc: true
 ---
 
-Pokud vám 🇨🇿 česká verze pomohla při vaší cestě Bitcoinovou králičí norou, můžete za překlad 
-poděkovat zasláním satů na ⚡ lightningovou adresu nekonecnik@stacker.news nebo ⛓️ on-chain 
-na PayNym [+muddydarkness33F][https://paynym.is/+muddydarkness33F] 
+<small>
+  Pokud vám 🇨🇿 česká verze pomohla při vaší cestě Bitcoinovou králičí norou, 
+  mám radost, neboť tím má práce došla naplnění. Pravděpodobně jste zjistili, 
+  že teorie se v noře nachází nepřeberně. Neméně důležitá je ovšem praxe, 
+  zažitá nejlépe dříve, než se stane nutností. Nabízím vám proto možnost 
+  vyzkoušet si reálnou transakci a za překlad poděkovat zasláním satů 
+  na ⚡ lightningovou adresu nekonecnik@stacker.news nebo ⛓️ on-chain na PayNym 
+  <a href="https://paynym.is/+muddydarkness33F">+muddydarkness33F</a> 
+  <br/>
+  Máte-li dotaz nebo připomínku, můžete mě kontaktovat na 
+  <a href="https://twitter.com/nekonecnik">twitteru</a>, 
+  případně otevřít issue nebo pull request na 
+  <a href="https://github.com/sifrant/21lekci">githubu</a>. -->
+</small>
+
+Pokud vám 🇨🇿 česká verze pomohla při vaší cestě Bitcoinovou králičí norou, 
+mám radost, neboť tím má práce došla naplnění. Pravděpodobně jste zjistili, 
+že teorie se v noře nachází nepřeberně. Neméně důležitá je ovšem praxe, 
+zažitá nejlépe dříve, než se stane nutností. Nabízím vám proto možnost 
+vyzkoušet si reálnou transakci a za překlad poděkovat zasláním satů 
+na ⚡ lightningovou adresu nekonecnik@stacker.news nebo ⛓️ on-chain na PayNym 
+[\+muddydarkness33F][https://paynym.is/+muddydarkness33F]
+
 Máte-li dotaz nebo připomínku, můžete mě kontaktovat na [twitteru][sifrant], 
 případně otevřít issue nebo pull request na [githubu][https://github.com/sifrant/21lekci].
 
@@ -33,6 +53,8 @@ případně otevřít issue nebo pull request na [githubu][https://github.com/si
 (CC BY-SA 4.0)][cc-by-sa], stejně jako [moje ostatní díla][other-work]. To znamená, 
 že tento materiál můžete libovolně sdílet, upravovat a překládat, jak uznáte za vhodné. 
 Jediným požadavkem je, abyste své příspěvky šířili pod stejnou licencí.
+
+Pokud ... na [githubu][https://github.com/sifrant/21lekci].
 
 [cc-by-sa]: https://creativecommons.org/licenses/by-sa/4.0/
 [other-work]: https://dergigi.com/translations/
