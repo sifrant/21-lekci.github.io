@@ -17,9 +17,9 @@ toc: true
   na ⚡ lightningovou adresu nekonecnik@stacker.news nebo ⛓️ on-chain na PayNym 
   <a href="https://paynym.is/+muddydarkness33F">+muddydarkness33F</a><br/> 
   <br/>
-  Nevíte-li jak, stejně jako v případě jiných dotazů či připomínek, můžete mě 
-  kontaktovat na <a href="https://twitter.com/nekonecnik">twitteru</a>. 
-  Ohledně samotného překladu neváhejte rovnou otevřít issue nebo 
+  Nevíte-li jak, stejně jako v případě jiných dotazů či připomínek, kontaktujte 
+  mě na <a href="https://twitter.com/nekonecnik">twitteru</a>. 
+  Ohledně samotného překladu můžete rovnou otevřít issue nebo 
   pull request na <a href="https://github.com/sifrant/21lekci">githubu</a>. 
 </small>
 
@@ -42,8 +42,6 @@ toc: true
 (CC BY-SA 4.0)][cc-by-sa], stejně jako [moje ostatní díla][other-work]. To znamená, 
 že tento materiál můžete libovolně sdílet, upravovat a překládat, jak uznáte za vhodné. 
 Jediným požadavkem je, abyste své příspěvky šířili pod stejnou licencí.
-
-Pokud ... na [githubu][https://github.com/sifrant/21lekci].
 
 [cc-by-sa]: https://creativecommons.org/licenses/by-sa/4.0/
 [other-work]: https://dergigi.com/translations/
