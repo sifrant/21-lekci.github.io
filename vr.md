@@ -19,11 +19,12 @@ Díky [BITPAINT][bitpaint] je _21 lekcí_ dostupných jako svět virtuální rea
 
 ---
 
-<!-- {% include video.html file="/assets/videos/beta.mp4" %}
+{% include video.html file="/assets/videos/beta.mp4" %}
+<!-- 
 {% include video.html file="{{ 'assets/videos/beta.mp4' | absolute_url }}" %}
-https://github.com/sifrant/21lekci/blob/CZsite/assets/videos/beta.mp4 
-{% include video.html file="{{ 'blob/CZsite/assets/videos/beta.mp4' | absolute_url }}" %} -->
-{% include video.html file="https://github.com/sifrant/21lekci/blob/CZsite/assets/videos/beta.mp4" %}
+{% include video.html file="{{ 'blob/CZsite/assets/videos/beta.mp4' | absolute_url }}" %}
+{% include video.html file="https://github.com/sifrant/21lekci/blob/CZsite/assets/videos/beta.mp4" %} 
+-->
 
 ---
 
