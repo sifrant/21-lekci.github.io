@@ -11,7 +11,8 @@ toc: true
 <small>
   Pokud vám 🇨🇿 česká verze pomohla při vaší cestě Bitcoinovou králičí norou, 
   mám radost, neboť tím má práce došla naplnění. Pravděpodobně jste zjistili, 
-  že teorie se v noře nachází nepřeberně. Neméně důležitá je ovšem praxe, 
+  že teorie se v noře nachází nepřeberně. Ovšem 
+  <a href="https://twitter.com/dergigi/status/1513396996324876289">neméně důležitá je praxe</a>, 
   zažitá nejlépe dříve, než se stane nutností. Nabízím vám proto možnost 
   vyzkoušet si reálnou transakci a za překlad poděkovat zasláním satů 
   na ⚡ lightningovou adresu nekonecnik@stacker.news nebo ⛓️ on-chain na PayNym 
