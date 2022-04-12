@@ -8,11 +8,21 @@ order: ch4-03
 toc: true
 ---
 
-Pokud vám 🇨🇿 česká verze pomohla při vaší cestě Bitcoinovou králičí norou, můžete za překlad 
-poděkovat zasláním satů na ⚡ lightningovou adresu nekonecnik@stacker.news nebo ⛓️ on-chain 
-na PayNym [+muddydarkness33F][https://paynym.is/+muddydarkness33F] 
-Máte-li dotaz nebo připomínku, můžete mě kontaktovat na [twitteru][sifrant], 
-případně otevřít issue nebo pull request na [githubu][https://github.com/sifrant/21lekci].
+<small>
+  Pokud vám 🇨🇿 česká verze pomohla při vaší cestě Bitcoinovou králičí norou, 
+  mám radost, neboť tím má práce došla naplnění. Pravděpodobně jste zjistili, 
+  že teorie se v noře nachází nepřeberně. Ovšem 
+  <a href="https://twitter.com/dergigi/status/1513396996324876289">neméně důležitá je praxe</a>, 
+  zažitá nejlépe dříve, než se stane nutností. Nabízím vám proto možnost 
+  vyzkoušet si reálnou transakci a za překlad poděkovat zasláním satů 
+  na ⚡ lightningovou adresu nekonecnik@stacker.news nebo ⛓️ on-chain na PayNym 
+  <a href="https://paynym.is/+muddydarkness33F">+muddydarkness33F</a><br/> 
+  <br/>
+  Nevíte-li jak, stejně jako v případě jiných dotazů či připomínek, kontaktujte 
+  mě na <a href="https://twitter.com/nekonecnik">twitteru</a>. 
+  Ohledně samotného překladu můžete rovnou otevřít issue nebo 
+  pull request na <a href="https://github.com/sifrant/21lekci">githubu</a>. 
+</small>
 
 <div style="position: relative;">
   <picture>
