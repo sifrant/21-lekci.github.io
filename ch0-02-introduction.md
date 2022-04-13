@@ -1,7 +1,7 @@
 ---
 layout: lesson
 title: Úvod
-quote: "\"Ale já nechci jít mezi šílené lidi,\" poznamenala Alenka.</br> \"No, s tím nic nenaděláš,\" řekl Kocour: \"Všichni jsme tu blázni. Já jsem šílený. Ty jsi šílená.\"</br> \"Jak víš, že jsem blázen?\" zeptala se Alenka.</br> \"Musíš být,\" odvětil Kocour, \"jinak bys sem nechodila.\"</br>"
+quote: "\"le já nechci mezi potrhlíky,\" bránila se Alenka.</br> \"Málo platné,\" řekla kočka, \"tady jsme všichni potrhlí. Já jsem potrhlá, ty jsi taky potrhlá.\"</br> \"Jak to víš, že jsem potrhlá?\" zeptala se Alenka.</br> \"To je jisté, jinak bys sem nechodila.\"</br>"
 audio: /assets/audio/21lessons/0-02.m4a
 permalink: intro
 order: ch0-02
