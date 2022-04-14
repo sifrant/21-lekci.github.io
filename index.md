@@ -49,7 +49,7 @@ image: /assets/images/21-lessons-twitter-cover-audio.jpg
 </div>
 
 
-Díky úžasným členům Bitcoinové komunity je 21 lekcí k dispozici v [několika jazycích][translations], ve [zvukové verzi][audio] 
+Díky úžasným členům Bitcoinové komunity je 21 lekcí k dispozici v [21+ jazycích][translations], ve [zvukové verzi][audio] 
 a jako [svět virtuální reality][vr]. V případě, že jste ochotni se podělit o své těžce vydělané saty, je možné zakoupit 
 i [podepsanou kopii][signed].
 
