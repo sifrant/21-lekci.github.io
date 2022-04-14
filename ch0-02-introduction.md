@@ -1,7 +1,7 @@
 ---
 layout: lesson
 title: Úvod
-quote: "\"le já nechci mezi potrhlíky,\" bránila se Alenka.</br> \"Málo platné,\" řekla kočka, \"tady jsme všichni potrhlí. Já jsem potrhlá, ty jsi taky potrhlá.\"</br> \"Jak to víš, že jsem potrhlá?\" zeptala se Alenka.</br> \"To je jisté, jinak bys sem nechodila.\"</br>"
+quote: "\"Ale já nechci mezi potrhlíky,\" bránila se Alenka.</br> \"Málo platné,\" řekla kočka, \"tady jsme všichni potrhlí. Já jsem potrhlá, ty jsi taky potrhlá.\"</br> \"Jak to víš, že jsem potrhlá?\" zeptala se Alenka.</br> \"To je jisté, jinak bys sem nechodila.\"</br>"
 audio: /assets/audio/21lessons/0-02.m4a
 permalink: intro
 order: ch0-02
