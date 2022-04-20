@@ -2,7 +2,7 @@
 layout: lesson
 title: Překlady
 subtitle: بيتكوين
-quote: "Po těchto slovech následovalo velmi dlouhé ticho, přerušované jen občasným zvoláním \"hjckrrh!\""
+quote: "Po těchto slovech se zas nadlouho rozhostilo ticho, jen občas přerušované Nohovým \"Hžkrrr!\""
 permalink: translations
 order: ch4-03
 toc: true
