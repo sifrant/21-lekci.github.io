@@ -55,9 +55,8 @@ i [podepsanou kopii][signed].
 
 ---
 
-> *Bílý králík si nasadil brýle. "Kde mám prosím začít, Vaše Veličenstvo?" 
-> zeptal se. "[Začni na začátku][preface]," řekl král vážně, "a pokračuj, 
-> dokud nedojdeš na konec. Pak se zastav."*
+> *Bílý králík si nasadil brejle. "Kde mám prosím, Vaše Veličenstvo, začít?" zeptal se. 
+> "[Začni od začátku][preface]," řekl vážně Král, "a čti až do konce; potom přestaň."*
 
 <center>
   <p>Jste připraveni vstoupit do Říše divů?<br/>
