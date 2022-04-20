@@ -2,7 +2,7 @@
 layout: lesson
 title: Závěr
 subtitle: Získané poznatky
-quote: "\"Začni od začátku,\" řekl Král velmi vážně, \"a pokračuj, dokud nedojdeš na konec. Pak se zastav.\""
+quote: "\"Začni od začátku,\" řekl vážně Král, \"a čti až do konce; potom přestaň.\""
 audio: /assets/audio/21lessons/4-00.m4a
 permalink: conclusion
 order: ch4-00
