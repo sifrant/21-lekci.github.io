@@ -55,7 +55,7 @@ i [podepsanou kopii][signed].
 
 ---
 
-> *Bílý králík si nasadil brejle. "Kde mám prosím, Vaše Veličenstvo, začít?" zeptal se. 
+> *Bílý Králík si nasadil brejle. "Kde mám prosím, Vaše Veličenstvo, začít?" zeptal se. 
 > "[Začni od začátku][preface]," řekl vážně Král, "a čti až do konce; potom přestaň."*
 
 <center>
