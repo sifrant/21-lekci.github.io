@@ -2,7 +2,7 @@
 layout: lesson
 title: Kapitola III
 subtitle: Technologie
-quote: "\"Tentokrát to zvládnu lépe,\" řekla si a začala tím, že vzala malý zlatý klíč a odemkla dveře vedoucí do zahrady."
+quote: "\"Už si dám lepší pozor,\" řekla si a rovnou sebrala zlatý klíček a odemkla dvířka do zahrady."
 audio: /assets/audio/21lessons/3-00.m4a
 permalink: technology
 order: ch3-00
