@@ -1,7 +1,7 @@
 ---
 layout: lesson
 title: Poděkování
-quote: "\"Děkuji,\" řekla Alenka."
+quote: "\"Děkuju,\" řekla Alenka."
 permalink: acknowledgments
 order: ch4-01
 toc: true

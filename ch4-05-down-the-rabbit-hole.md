@@ -1,7 +1,7 @@
 ---
 layout: lesson
 title: Hlouběji králičí norou
-quote: "Skoro bych si přála, abych do té králičí nory nespadla, a přece, a přece - je to docela zvláštní, víte, tenhle život."
+quote: "Snad jsem neměla lézt do té králičí díry - a přec - a přec - nic naplat, zajímavý je tenhle život."
 permalink: rabbithole
 order: ch4-05
 toc: true

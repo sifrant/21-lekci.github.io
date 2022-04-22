@@ -1,7 +1,7 @@
 ---
 layout: lesson
 title: Předmluva
-quote: "Alenka spadla <br/> d <br/> o <br/> l <br/> ů <br/> do nOry, <br/> narazila si hlavu <br/> a poranila si duši."
+quote: "Alenka spadla <br/> d <br/> o <br/> l <br/> ů <br/> do nOry, <br/> dušičku pošramocenou, <br/> na čele boule jak hory."
 audio: /assets/audio/21lessons/0-00.m4a
 permalink: preface
 order: ch0-00
