@@ -5,7 +5,7 @@ subtitle: Co jsem se naučil během pádu do Bitcoinové králičí nory
 subtitle_link: http://21lessons.com
 category: bitcoin
 description: Zkoumání otázek a zkušeností nasbíraných během pádu do Bitcoinové králičí nory.
-quote: "\"Ach, ty hloupá Alenko!\" řekla znovu, \"jak se tady můžeš něčemu naučit? Vždyť je tu sotva místo pro tebe a už vůbec ne pro nějaké učebnice!\""
+quote: "\"Ty hloupá Alenko,\" odpovídala si. \"Jak se chceš tady učit? Stěží se sem sama vejdeš, jakpak by se sem vešly učebnice!\""
 image: /assets/images/21-lessons-twitter-cover-audio.jpg
 ---
 
@@ -17,7 +17,7 @@ image: /assets/images/21-lessons-twitter-cover-audio.jpg
 ---
 
 >  "Tuto knihu vřele doporučuji. Pokud s bitcoinem teprve začínáte, kupte si ji na Amazonu. 
->  Pokud jste Hodler, přečtěte si knihu online a pošlete bitcon přímo[*][donate] Gigimu."
+>  Pokud jste Hodler, přečtěte si knihu online a pošlete bitcoin přímo[*][donate] Gigimu."
 >  <cite>[Minimal Structure][reviews]</cite>
 
 [donate]: https://dergigi.com/support
@@ -49,15 +49,14 @@ image: /assets/images/21-lessons-twitter-cover-audio.jpg
 </div>
 
 
-Díky úžasným členům Bitcoinové komunity je 21 lekcí k dispozici v [několika jazycích][translations], ve [zvukové verzi][audio] 
+Díky úžasným členům Bitcoinové komunity je 21 lekcí k dispozici v [21+ jazycích][translations], ve [zvukové verzi][audio] 
 a jako [svět virtuální reality][vr]. V případě, že jste ochotni se podělit o své těžce vydělané saty, je možné zakoupit 
 i [podepsanou kopii][signed].
 
 ---
 
-> *Bílý králík si nasadil brýle. "Kde mám prosím začít, Vaše Veličenstvo?" 
-> zeptal se. "[Začni na začátku][preface]," řekl král vážně, "a pokračuj, 
-> dokud nedojdeš na konec. Pak se zastav."*
+> *Bílý Králík si nasadil brejle. "Kde mám prosím, Vaše Veličenstvo, začít?" zeptal se. 
+> "[Začni od začátku][preface]," řekl vážně Král, "a čti až do konce; potom přestaň."*
 
 <center>
   <p>Jste připraveni vstoupit do Říše divů?<br/>

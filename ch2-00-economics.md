@@ -2,7 +2,7 @@
 layout: lesson
 title: Kapitola II
 subtitle: Ekonomika
-quote: "U vchodu do zahrady stál velký růžový strom: růže na něm byly bílé, ale byli u něj tři zahradníci a pilně je natírali na červeno. Alence to připadalo velmi zvláštní..."
+quote: "U vchodu do zahrady stál velký růžový štěp. Rostly na něm bílé růže, ale tři zahradníci je usilovně přetírali na červeno. Alence to bylo velmi divné..."
 audio: /assets/audio/21lessons/2-00.m4a
 permalink: economics
 order: ch2-00

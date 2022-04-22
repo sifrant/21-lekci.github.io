@@ -2,7 +2,7 @@
 layout: lesson
 title: Překlady
 subtitle: بيتكوين
-quote: "Po těchto slovech následovalo velmi dlouhé ticho, přerušované jen občasným zvoláním \"hjckrrh!\""
+quote: "Po těchto slovech se zas nadlouho rozhostilo ticho, jen občas přerušované Nohovým \"Hžkrrr!\""
 permalink: translations
 order: ch4-03
 toc: true
@@ -21,7 +21,10 @@ toc: true
   Nevíte-li jak, stejně jako v případě jiných dotazů či připomínek, kontaktujte 
   mě na <a href="https://twitter.com/nekonecnik">twitteru</a>. 
   Ohledně samotného překladu můžete rovnou otevřít issue nebo 
-  pull request na <a href="https://github.com/sifrant/21lekci">githubu</a>. 
+  pull request na <a href="https://github.com/sifrant/21lekci">githubu</a>.<br/>
+  <br/>
+  Citáty z Alenky (kromě úvodního kaligramu, k němuž se hlásím) pocházejí z 🇨🇿 vydání u Slovart, 2005, překlad Aloys a Hana Skoumalovi<br/>
+  Citáty z whitepaperu pocházejí z 🇨🇿 překladu od <a href="https://braiins.com/blog/the-bitcoin-whitepaper-cz-cesky-preklad">Braiins.com</a>
 </small>
 
 <div style="position: relative;">
