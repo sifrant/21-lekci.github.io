@@ -5,7 +5,7 @@ subtitle: Virtuální králičí nora
 subtitle_link: https://vrchat.com/home/world/wrld_87cb52a8-eea8-4730-8c90-77c973f68165
 category: bitcoin
 description: 21 lekcí je dostupných jako virtuální svět! Projděte se králičí norou za poslechu jednotlivých kapitol.
-quote: "Dolů, dolů, dolů. Že by ten pád nikdy neskončil?"
+quote: "Stále hloub a hloub a hloub. Což tomu padání nikdy nebude konec?"
 image: /assets/images/vr-cover.png
 ---
 

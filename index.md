@@ -17,7 +17,7 @@ image: /assets/images/21-lessons-twitter-cover-audio.jpg
 ---
 
 >  "Tuto knihu vřele doporučuji. Pokud s bitcoinem teprve začínáte, kupte si ji na Amazonu. 
->  Pokud jste Hodler, přečtěte si knihu online a pošlete bitcon přímo[*][donate] Gigimu."
+>  Pokud jste Hodler, přečtěte si knihu online a pošlete bitcoin přímo[*][donate] Gigimu."
 >  <cite>[Minimal Structure][reviews]</cite>
 
 [donate]: https://dergigi.com/support

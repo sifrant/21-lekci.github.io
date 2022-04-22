@@ -2,7 +2,7 @@
 layout: lesson
 title: Díky Vám
 subtitle: ...za přečtení, za setrvání, za snahu porozumět.
-quote: "\"Vypadá to moc hezky,\" řekla, když to dočetla, \"ale je to dost těžké na pochopení!\""
+quote: "\"Velmi hezké,\" řekla si Alenka, když dočtla, \"ale tak trochu nesrozumitelné!\""
 permalink: thank-you
 order: ch4-02
 toc: true
