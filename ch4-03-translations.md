@@ -24,7 +24,7 @@ toc: true
   pull request na <a href="https://github.com/sifrant/21lekci">githubu</a>.<br/>
   <br/>
   Citáty z Alenky (kromě úvodního kaligramu, k němuž se hlásím) pocházejí z 🇨🇿 vydání u Slovart, 2005, překlad Aloys a Hana Skoumalovi<br/>
-  Citáty z whitepaperu pocházejí z 🇨🇿 překladu od <a href="https://braiins.com/blog/the-bitcoin-whitepaper-cz-cesky-preklad">Braiins.com</a>
+  Citáty z whitepaperu pocházejí z 🇨🇿 překladu od <a href="https://braiins.com/blog/the-bitcoin-whitepaper-cz-cesky-preklad">Braiins Publishing</a>
 </small>
 
 <div style="position: relative;">
