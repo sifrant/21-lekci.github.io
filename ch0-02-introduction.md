@@ -45,7 +45,7 @@ budoucnosti Bitcoinu.
 Každá lekce obsahuje v textu několik citátů a odkazů. Pokud jsem nějakou 
 myšlenku prozkoumal podrobněji, najdete odkazy na mé související práce v části 
 "Za zrcadlem". Pokud byste rádi šli hlouběji, odkazy na nejdůležitější materiály 
-jsou uvedeny v části "Dolů králičí norou". Obojí najdete na konci každé lekce. 
+jsou uvedeny v části "Hlouběji králičí norou". Obojí najdete na konci každé lekce. 
 (V případě, že jsem nalezl vhodný a dostatečně kvalitní článek v češtině, 
 odkazuji na něj. Jinak ponechávám odkazy na původní anglické zdroje. Některé 
 z odkazovaných textů plánuji v budoucnu přeložit také - pozn. překladatele)
