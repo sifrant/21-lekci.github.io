@@ -9,12 +9,11 @@ toc: true
 ---
 
 V říjnu 2018 položil Arjun Balaji nevinnou otázku: [*Co jste se naučili od 
-Bitcoinu?*][this question] Poté, co jsem se pokusil na tuto otázku odpovědět 
-(žalostně neúspěšně) v krátkém tweetu, uvědomil jsem si, že věcí, které 
-jsem se naučil, je příliš mnoho na to, abych na ně mohl odpovědět rychle. 
-Pokud vůbec.
+Bitcoinu?*][this question] Po žalostně neúspěšném pokusu o odpověď krátkým 
+tweetem, mi došlo, že věcí, které jsem se naučil, je příliš mnoho na to, 
+abych na ně mohl odpovědět rychle. Pokud vůbec.
 
-To, co jsem se naučil, se samozřejmě týká Bitcoinu - nebo to s ním alespoň 
+To, co jsem se naučil, se samozřejmě týká Bitcoinu - nebo s ním alespoň 
 souvisí. Nicméně, i když jsou zde některé z vnitřních mechanismů Bitcoinu 
 objasněny, následující lekce nejsou vysvětlením toho, jak Bitcoin funguje nebo 
 co to je. Mohly by však pomoci prozkoumat některé ze záležitostí, jichž se 
@@ -44,11 +43,10 @@ budoucnosti Bitcoinu.
 
 Každá lekce obsahuje v textu několik citátů a odkazů. Pokud jsem nějakou 
 myšlenku prozkoumal podrobněji, najdete odkazy na mé související práce v části 
-"Za zrcadlem". Pokud byste rádi šli hlouběji, odkazy na nejdůležitější materiály 
-jsou uvedeny v části "Dolů králičí norou". Obojí najdete na konci každé lekce. 
+"Za zrcadlem". Pokud byste rádi šli více pod povrch, odkazy na nejdůležitější materiály 
+jsou uvedeny v části "Hlouběji králičí norou". Obojí najdete na konci každé lekce. 
 (V případě, že jsem nalezl vhodný a dostatečně kvalitní článek v češtině, 
-odkazuji na něj. Jinak ponechávám odkazy na původní anglické zdroje. Některé 
-z odkazovaných textů plánuji v budoucnu přeložit také - pozn. překladatele)
+odkazuji na něj. Jinak ponechávám odkazy na původní anglické zdroje - pozn. překladatele)
 
 Přestože jsou určité předchozí znalosti o Bitcoinu přínosné, doufám, že tyto 
 lekce zvládne strávit každý zvídavý čtenář. I když některé z lekcí spolu 
