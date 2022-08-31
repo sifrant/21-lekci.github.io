@@ -1,10 +1,10 @@
 ---
 layout: page
 title: 21 lekcí
-subtitle: Co jsem se naučil během pádu do Bitcoinové králičí nory
+subtitle: Co mě naučil pád do bitcoinové králičí nory
 subtitle_link: http://21lessons.com
 category: bitcoin
-description: Zkoumání otázek a zkušeností nasbíraných během pádu do Bitcoinové králičí nory.
+description: Zkoumání otázek a zkušeností nasbíraných během pádu do bitcoinové králičí nory.
 quote: "\"Ty hloupá Alenko,\" odpovídala si. \"Jak se chceš tady učit? Stěží se sem sama vejdeš, jakpak by se sem vešly učebnice!\""
 image: /assets/images/21-lessons-twitter-cover-audio.jpg
 ---
