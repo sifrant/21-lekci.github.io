@@ -17,7 +17,7 @@ image: /assets/images/21-lessons-twitter-cover-audio.jpg
 ---
 
 >  "Tuto knihu vřele doporučuji. Pokud s bitcoinem teprve začínáte, kupte si ji na Amazonu. 
->  Pokud jste Hodler, přečtěte si knihu online a pošlete bitcoin přímo[*][donate] Gigimu."
+>  Pokud jste hodler, přečtěte si knihu online a pošlete bitcoin přímo[*][donate] Gigimu."
 >  <cite>[Minimal Structure][reviews]</cite>
 
 [donate]: https://dergigi.com/support
@@ -49,7 +49,7 @@ image: /assets/images/21-lessons-twitter-cover-audio.jpg
 </div>
 
 
-Díky úžasným členům Bitcoinové komunity je 21 lekcí k dispozici v [21+ jazycích][translations], ve [zvukové verzi][audio] 
+Díky úžasným členům bitcoinové komunity je 21 lekcí k dispozici v [21+ jazycích][translations], ve [zvukové verzi][audio] 
 a jako [svět virtuální reality][vr]. V případě, že jste ochotni se podělit o své těžce vydělané saty, je možné zakoupit 
 i [podepsanou kopii][signed].
 
@@ -59,7 +59,7 @@ i [podepsanou kopii][signed].
 > "[Začni od začátku][preface]," řekl vážně Král, "a čti až do konce; potom přestaň."*
 
 <center>
-  <p>Jste připraveni vstoupit do Říše divů?<br/>
+  <p>Jste připraveni vstoupit do říše divů?<br/>
   <a href="{{ 'preface' | absolute_url }}">Následujte bílého králíka →</a></p>
 <!--  <p><a href="{{ 'preface' | absolute_url }}"><img src="/assets/images/rabbit.png"/></a></p>-->
   <p><a href="{{ 'preface' | absolute_url }}"><img src="{{ 'assets/images/rabbit.png' | absolute_url }}"/></a></p>
