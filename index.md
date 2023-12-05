@@ -11,7 +11,7 @@ image: /assets/images/21-lessons-twitter-cover-audio.jpg
 
 <div class="action-buttons">
   <div class="button"><a href="https://shop.bitperia.cz/products/21-lekci-co-me-naucil-pad-do-bitcoinove-kralici-nory">Koupit knihu!</a></div>
-  <small>(...nebo <a href="{{ 'preface' | absolute_url }}">přečíst online</a> zdarma)</small>
+  <small>(...nebo <a href="https://www.bitperia.cz/knihy">stáhnout PDF/EPUB</a> zdarma)</small>
 </div>
 
 ---
